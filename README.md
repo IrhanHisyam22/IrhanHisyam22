@@ -7,7 +7,6 @@
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="#"><img align="left" alt="Html" title="Html" width="21px" src="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" /></a>
  
 
 
