@@ -1,9 +1,9 @@
 ### Hi! 👋 I'm Irhan Hisyam Dwi Nugroho.
 
 
-- 💬 Feel free to ask me about web development or JavaScript
+- 💬 Feel free to ask me about Back End Developer
 - 📫 How to reach me: irhan9001@gmail.com
-- ⚡ Fun fact: Father of a daughter
+- ⚡ Fun fact: Fun Coding
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
